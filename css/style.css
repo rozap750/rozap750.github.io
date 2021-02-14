@@ -873,10 +873,10 @@ p.contact-info i {
 
 .home-section {
     width: 100%;
-    min-height: 600px;
+    min-height: 700px;
     position: relative;
     z-index: 999;
-    background-image: url(../images/bg.jpg);
+    background-image: url(../images/bg-headline.jpg);
     background-size: cover;
     padding: 100px;
 }
